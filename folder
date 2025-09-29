@@ -1,1 +1,9 @@
+my-photo-video-site/
+│
+├─ index.html        ← main landing page
+├─ gallery.html      ← optional separate gallery page
+├─ style.css         ← site styling
+└─ media/
+   ├─ photos/        ← put your image files here
+   └─ videos/        ← put your video files here
 
