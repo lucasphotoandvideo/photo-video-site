@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gallery – Lucas Huang</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Gallery</h1>
+    <nav>
+      <a href="index.html">Home</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="highlight-grid">
+      <!-- Add as many as you like -->
+      <div class="item"><img src="media/photos/photo1.jpg" alt=""></div>
+      <div class="item"><video controls><source src="media/videos/video1.mp4"></video></div>
+      <div class="item"><img src="media/photos/photo2.jpg" alt=""></div>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Lucas Huang
+  </footer>
+</body>
+</html>
